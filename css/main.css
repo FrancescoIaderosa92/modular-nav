@@ -16,7 +16,19 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  margin: 0;
-  width: 100%;
+.btn {
+  color: #0074d9;
+  background-color: #e2e2e2;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: #e2e2e2;
+  background-color: #0074d9;
+  text-decoration: none;
+}
+
+.title {
+  background-color: #e2e2e2;
 }
